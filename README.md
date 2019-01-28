@@ -1,3 +1,5 @@
 # CS245 - Practice Assignment 1
 
-See assignment details on Canvas.
+by Alex Kowalczuk
+uploaded: January 28, 2019
+Fibonacci + Factorial both runs 
